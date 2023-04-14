@@ -1,4 +1,8 @@
-### Hi there 👋
+### Oi, Bem-vindo 👋
+Meu nome é Páblo, sou Estatístico com 5 anos de experiência, utilizo R, Python, Power BI, Tableau, SPPS, Jasp e diversos softwares de análise de dados.
+
+Atuo na área pública no que tange o serviço de defesa agropecuária e florestal do Amazonas. 
+Já atuei também na área da saúde com planejamento e indicadores e já fui professor substituto de estatística em universidade.
 
 <!--
 **pablodiasvieira-dev/pablodiasvieira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
